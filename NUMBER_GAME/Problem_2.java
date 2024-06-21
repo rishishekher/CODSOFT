@@ -1,3 +1,5 @@
+ // Prompt the user to enter their guess for the generated number.
+
 package NUMBER_GAME;
 import java.util.Random;
 import java.util.Scanner;
