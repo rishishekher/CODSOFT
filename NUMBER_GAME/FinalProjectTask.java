@@ -1,3 +1,5 @@
+// Display the user's score, which can be based on the number of attempts taken or rounds won.
+
 package NUMBER_GAME;
 
 import java.util.Random;
