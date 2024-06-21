@@ -1,3 +1,7 @@
+/*  Compare the user's guess with the generated number and provide feedback on whether the guess
+    is correct, too high, or too low.
+*/
+
 package NUMBER_GAME;
 import java.util.Random;
 import java.util.Scanner;

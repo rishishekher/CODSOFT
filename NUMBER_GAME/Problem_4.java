@@ -1,3 +1,5 @@
+// Repeat steps 2 and 3 until the user guesses the correct number.
+
 package NUMBER_GAME;
     
 import java.util.Random;
