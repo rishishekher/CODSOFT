@@ -1,3 +1,5 @@
+// Limit the number of attempts the user has to guess the number.
+
 package NUMBER_GAME;
 
     import java.util.Random;
