@@ -1,3 +1,5 @@
+// Add the option for multiple rounds, allowing the user to play again.
+
 package NUMBER_GAME;
 import java.util.Random;
 import java.util.Scanner;
