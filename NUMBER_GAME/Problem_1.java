@@ -1,3 +1,5 @@
+// Generate a random number within a specified range, such as 1 to 100.
+
 package NUMBER_GAME;
 import java.util.Random;
 
